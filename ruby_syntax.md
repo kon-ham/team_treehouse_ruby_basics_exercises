@@ -24,3 +24,14 @@
 - In this Ruby program, make a call to the puts method. Pass puts the string "Hello, world!" as an argument.
 
     `puts("Hello World!")` or `puts "Hello World!"`
+
+- Define a method named say_hi. The method body should include a call to puts with an argument of "hi". Then call your new say_hi method.
+
+    ```
+    def say_hi
+        puts "hi"
+    end
+
+    say_hi
+    ```
+
