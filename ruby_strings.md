@@ -19,3 +19,7 @@
 
     `Concatenation is joining multiple strings together into a single string`
 
+- What is string interpolation?
+
+    `String interpolation is substituting values into a string`
+
