@@ -65,3 +65,8 @@
         return 5
     end
     ```
+
+- Which of these is a valid Ruby variable name, that also follows variable naming conventions?
+
+    `user_name`
+
