@@ -43,3 +43,14 @@
 
     puts language, description
     ```
+
+- Define a method named say. The say method should take one parameter (name the parameter whatever you want). In the say method body, take the parameter and pass it to puts as an argument. End your program with a call to the say method, and pass the string "Ruby" as an argument.
+
+    ```
+    def say(parameter)
+        puts parameter
+    end
+
+    say("Ruby")
+    ```
+
