@@ -16,3 +16,8 @@
 - What's the conventional file name extension for Ruby source code files?
 
     `.rb`
+
+- What is a method?
+
+    `A method of code statements that work together to do some kind of useful work`
+
