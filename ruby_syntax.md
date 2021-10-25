@@ -35,3 +35,11 @@
     say_hi
     ```
 
+- Assign the string "Ruby" to a variable named language. Then assign the string "awesome" to a variable named description. Then make a single call to puts and pass it two arguments: the language and description variables. (Remember that if you're providing multiple arguments for a method call, you separate them with commas.)
+
+    ```
+    language = "Ruby"
+    description = "awesome"
+
+    puts language, description
+    ```
