@@ -14,3 +14,8 @@
     # puts a new quotation character
     puts "\""
     ```
+
+- What is string concatenation?
+
+    `Concatenation is joining multiple strings together into a single string`
+
