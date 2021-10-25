@@ -6,3 +6,11 @@
 
     `ruby total.rb`
 
+- If you're currently in a directory that contains a "code" directory, and the "code" directory contains a file named "add.rb", which of these options would run "add.rb"?
+
+    ```
+    cd code
+    ruby add.rb
+    ```
+
+    
