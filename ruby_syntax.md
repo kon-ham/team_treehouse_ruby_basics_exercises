@@ -13,4 +13,6 @@
     ruby add.rb
     ```
 
-    
+- What's the conventional file name extension for Ruby source code files?
+
+    `.rb`
