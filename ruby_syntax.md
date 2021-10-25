@@ -21,3 +21,6 @@
 
     `A method of code statements that work together to do some kind of useful work`
 
+- In this Ruby program, make a call to the puts method. Pass puts the string "Hello, world!" as an argument.
+
+    `puts("Hello World!")` or `puts "Hello World!"`
