@@ -54,3 +54,14 @@
     say("Ruby")
     ```
 
+- Define a method named three that always returns the number 3. Also define a method named five that always returns the number 5. Neither method should take any arguments. (We know, these methods aren't especially useful. We just want to see if you know how to make a method return a particular value!)
+
+    ```
+    def three
+        return 3
+    end
+
+    def five
+        return 5
+    end
+    ```
