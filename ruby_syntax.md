@@ -73,4 +73,3 @@
 - What is a method "parameter"? (Careful, don't confuse it with a method "argument"!)
 
     `It is a special variable utilized as placeholders (or arguments) in your method`
-
