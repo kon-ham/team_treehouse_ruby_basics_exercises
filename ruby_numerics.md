@@ -33,3 +33,7 @@
 - Choose the result of this Ruby expression: 7 / 4.0
 
     `1.75`
+
+- Choose the output of this code: puts "7" * 3
+
+    `777`
