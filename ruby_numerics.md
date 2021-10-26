@@ -4,3 +4,10 @@
     integer = 2
     float = 2.0
     ```
+
+- Multiply 25 times 3 and assign the result to a variable named product. Then divide 7 by 4 and assign the result to a variable named quotient.
+
+    ```
+    product = 25 * 3
+    quotient = 7.0 / 4
+    ```
