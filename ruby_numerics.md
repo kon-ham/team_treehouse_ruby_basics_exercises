@@ -37,3 +37,7 @@
 - Choose the output of this code: puts "7" * 3
 
     `777`
+
+- Choose the result of this expression: 2 + 4 * 6
+
+    `26 (Ruby recognizes order of operations via PEMDAS)`
