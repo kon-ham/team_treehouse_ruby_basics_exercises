@@ -19,3 +19,23 @@
         end
     end
     ```
+
+- This version of the check_speed only prints "speed OK" if the speed is exactly 55 miles per hour. It would be better to allow a range of speeds. Update check_speed with this logic:
+
+    If we pass a speed of less than 45, check_speed should print "too slow".
+    If we pass a speed of 45 to 60, check_speed should print "speed OK".
+    If we pass a speed of greater than 60, check_speed should print "too fast".
+
+        ```
+        def check_speed(speed)
+            if speed < 45
+                puts "too slow"
+            end
+            if speed >= 45 && speed <= 60
+                puts "speed OK"
+            end
+            if speed > 60
+                puts "too fast"
+            end
+        end
+        ```
