@@ -22,3 +22,7 @@
     float = string.to_f
     ```
 
+- Choose the result of this Ruby expression: (2 + 4) * 6
+
+    `36`
+
