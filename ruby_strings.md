@@ -23,3 +23,6 @@
 
     `String interpolation is substituting values into a string`
 
+- Pick the choice below that represents the output of this code: puts "The answer is #{1 + 2}."
+
+    `The answer is 3`
