@@ -11,3 +11,14 @@
     product = 25 * 3
     quotient = 7.0 / 4
     ```
+
+- We've assigned the string "123" to a variable named string. Take string, use a method to convert it to an integer, and store the result in a variable named integer. Then call a second method on string to convert it to a floating-point number, and store the result in a variable named float.
+
+    ```
+    string = "123"
+    # YOUR CODE HERE
+    integer = string.to_i
+
+    float = string.to_f
+    ```
+
