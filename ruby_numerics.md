@@ -26,3 +26,7 @@
 
     `36`
 
+- Choose the result of this Ruby expression: 7 / 4
+
+    `1 (Because Ruby assumes you are trying to divide between two INTEGER classes`
+
